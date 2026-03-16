@@ -7,6 +7,7 @@
     <list default="true" id="49803218-2ce7-407b-a4e8-a5888331a2bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/HanoiRhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/HanoiRhymer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/defaultCountingOutRhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/defaultCountingOutRhymer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/kis/vh/nursery/RhymersJUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/kis/vh/nursery/RhymersJUnitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "fields-naming",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/student/Desktop/PiO-lab2/pio_git_rhymers",
@@ -88,7 +89,7 @@
       <updated>1773056604657</updated>
       <workItem from="1773056605514" duration="3343000" />
       <workItem from="1773065139932" duration="974000" />
-      <workItem from="1773660142105" duration="183000" />
+      <workItem from="1773660142105" duration="428000" />
     </task>
     <servers />
   </component>
