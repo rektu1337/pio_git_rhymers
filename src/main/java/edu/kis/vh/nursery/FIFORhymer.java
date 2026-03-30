@@ -4,6 +4,7 @@ public class FIFORhymer extends defaultCountingOutRhymer {
 
     private final defaultCountingOutRhymer temp = new defaultCountingOutRhymer();
 
+    // TODO: poprawic dzialanie funkcji - tworzy tymczasowy obiekt (stos) by odwrocic kolejnosc.
     @Override
     public int countOut() {
         while (!callCheck())

@@ -1,5 +1,8 @@
 package edu.kis.vh.nursery;
 
+/**
+ * Klasa bazowa - wyliczanka, zarządzanie tablicą elementów (np. dodawanie, usuwanie)
+ */
 public class defaultCountingOutRhymer {
 
     public static final int EMPTY_RHYMER_INDICATOR = -1;
@@ -15,6 +18,10 @@ public class defaultCountingOutRhymer {
         return total;
     }
 
+    /**
+     * Dodaje nowa wartosc do wyliczanki
+     * @param in - wartosc, ktora ma zostac dodana
+     */
     public void countIn(int in) {
         if (!isFull())
             numbers[++total] = in;
@@ -34,6 +41,10 @@ public class defaultCountingOutRhymer {
         return numbers[total];
     }
 
+    /**
+     * Zwraca i usuwa ostatnio dodany element
+     * @return - ostatnio dodana wartosc lub wskaznik bledu (gdy wyliczanka pusta)
+     */
     public int countOut() {
         if (callCheck())
             return DEFAULT_VALUE;
