@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class RhymersJUnitTest {
-
+    // Projekt poprawnie - wszystkie testy przechodza.
     @Test
     public void testCountIn() {
         defaultCountingOutRhymer rhymer = new defaultCountingOutRhymer();
